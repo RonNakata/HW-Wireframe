@@ -1,0 +1,81 @@
+
+body {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    /* Using the width makes it not match the Easier-Layout.png
+    width: 960px; */
+    font-size: 18px;
+}
+
+header {
+    background: #ebebeb;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 15%;
+    margin-bottom: 10px;
+}
+
+nav {
+    background: #ebebeb;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 15%;
+    margin-bottom: 10px;
+}
+
+section {
+    background: #ebebeb;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    float: left;
+    width: 44%;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+    margin: 7px;
+    border: 7px solid #777;
+}
+
+h1 {
+    color: #777;
+    background: #ebebeb;
+    margin: 7px;
+}
+
+h3 {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+p {
+    color: #777;
+    background: #ebebeb;
+    margin: 7px;
+}
+
+aside {
+    background: #ebebeb;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 15%;
+    margin-bottom: 20px;
+    float: right;
+    width: 29%;
+
+}
+
+footer {
+    clear: both;
+    background: #ebebeb;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 15%;
+    margin-bottom: 10px;
+}
